@@ -29,21 +29,5 @@ This project is a front-end web development project built using **HTML, CSS, and
 
 ---
 
-## Project Structure
-
-travel-site/
-│
-├── index.html # Main HTML file
-├── style.css # Custom CSS styles
-├── images/ # Images used in the website
-│ ├── banner1.jpg
-│ ├── banner2.jpg
-│ ├── 1.jpg
-│ ├── 2.jpg
-│ ├── 3.jpg
-│ ├── travel-1.jpg
-│ ├── travel-2.jpg
-│ ├── travel-3.jpg
-│ └── travel-4.jpg
-└── README.md # Project documentation
-
+Link:
+https://dinulishamindi.github.io/Travel-Website/
